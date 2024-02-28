@@ -40,20 +40,3 @@
 .read-the-docs {
   color: #888;
 }
-
-
-.card {
-  border: 2px solid #333;
-  border-radius: 8px;
-  padding: 20px;
-  margin-top: 20px;
-  background-color: #0a0000;
-}
-
-.card h2 {
-  color: #fdfdfd;
-}
-
-.card p {
-  margin: 10px 0;
-}
